@@ -10,4 +10,4 @@ Tools for grading and downloading/parsing data from [New e3](https://e3new.nctu.
 
 `OJUserParser.java` : Parse user list from NCTU OJ.
 
-`Status.java` : Calculate grade, generate detailed report, perform simple plagiarism check, download submission from NCTU OJ.
+`Status.java` : Calculate grade, generate detailed report, perform simple plagiarism check, and download submission from NCTU OJ.
