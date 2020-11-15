@@ -10,4 +10,4 @@ OJSubmissionParser : Parsing submission list from NCTU OJ.
 
 OJUserParser : Parsing user list from NCTU OJ.
 
-Status : Grading, Generating detailted report, and downloading submission from NCTU OJ.
+Status : Grading, Generating detailed report, and downloading submission from NCTU OJ.
