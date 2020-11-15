@@ -3,22 +3,22 @@ Tools for grading and downloading/parsing data from [New e3](https://e3new.nctu.
 
 ## List of Tools
 ### `E3AssignmentParser.java`
-Parse NCTU OJ submission ID (uploaded by student) from New e3.
+- Parse NCTU OJ submission ID (uploaded by student) from New e3.
 
 ### `E3StudentListParser.java`
-Parse student list from New e3.
+- Parse student list from New e3.
 
 ### `OJSubmissionParser.java`
-Parse submission list from NCTU OJ.
+- Parse submission list from NCTU OJ.
 
 ### `OJUserParser.java`
-Parse user list from NCTU OJ.
+- Parse user list from NCTU OJ.
 
 ### `Status.java`
-Download submission from NCTU OJ.
+- Download submission from NCTU OJ.
 
-Perform simple plagiarism check.
+- Perform simple plagiarism check.
 
-Calculate grade.
+- Calculate grade.
 
-Generate detailed report.
+- Generate detailed report.
