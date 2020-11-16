@@ -22,3 +22,6 @@ Tools for grading and downloading/parsing data from [New e3](https://e3new.nctu.
 - Calculate grade.
 
 - Generate detailed report.
+
+## Note
+Domain name of NCTU OJ has changed from `oj.nctu.me` to `oj.nctu.edu.tw`, and domain name for API has changed from `api.oj.nctu.me` to `api.oj.nctu.edu.tw`.
